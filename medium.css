@@ -1,0 +1,33 @@
+.hero .img{
+    width: 90% !important;
+}
+.hero2 .logos img{
+    padding-bottom: 30px;
+}
+.benefits2 .social{
+    padding: 0 !important;
+    margin: 0 !important;
+}
+.benefits2 .social h3, .benefits2 .social b{
+    font-size: medium;
+}
+
+.features .social,.templetes .social , .benefits2 .social,.pricing .social{
+    
+    width: 85% !important;
+    
+}
+.cta {
+    width: 100% !important;
+    
+}
+.woman{
+    width: 90% !important;
+}
+/* 
+@media(max-width:400px){
+    
+} */
+
+   
+
